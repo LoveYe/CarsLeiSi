@@ -26,6 +26,8 @@
     [self initData0];
     self.scrollView.backgroundColor = [UIColor whiteColor];
     self.tableView.backgroundColor = [UIColor whiteColor];
+    
+    // 我修改了这个界面
 }
 - (void)viewDidLoad {
     [super viewDidLoad];
